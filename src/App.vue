@@ -15,6 +15,9 @@
       |
       <router-link to="/class-api" active-class="strong">Class API</router-link>
       |
+      <router-link to="/css-v-bind" active-class="strong"
+        >CSS v-bind</router-link
+      >
     </div>
     <router-view />
   </div>
